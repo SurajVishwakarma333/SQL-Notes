@@ -7,7 +7,7 @@
 
 ### Define = Database ?
    
-        A database is an application that stores a collection of data.
+      -  A database is an application that stores a collection of data.
 
 ### Define = Relational DataBase Management System (RDBMS) ?
  
