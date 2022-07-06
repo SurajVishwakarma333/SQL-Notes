@@ -6,12 +6,12 @@
   - SQL is supported by almost any database you will likely use.
 
 ### Define = Database ?
-  
-  - A database is an application that stores a collection of data.
+   
+        A database is an application that stores a collection of data.
 
 ### Define = Relational DataBase Management System (RDBMS) ?
-
-- These database deals the data in the form of tables.
+ 
+      These database deals the data in the form of tables.
   
 ### Primary Key 
 
