@@ -26,9 +26,99 @@ ________________________________________________________________________________
 ### Create Database :
 The CREATE DATABASE statement is used for creating a new database. The syntax is −
 
-- SQL> CREATE DATABASE DATABASE_NAME;
+      SQL> CREATE DATABASE DATABASE_NAME;
 
 **Example**
 The following SQL statement creates a Database named Employee :
 
-         SQL> CREATE DATABASE Employee;
+      SQL> CREATE DATABASE Employee;
+
+
+### Drop Database
+The DROP DATABASE statement is used for deleting an existing database. The syntax is −
+
+      SQL> DROP DATABASE DATABASE_NAME;
+      
+**Example**
+The following SQL statement drop/delete a Database named Employee :
+
+      SQL> DROP DATABASE Employee;      
+      
+      
+### Create Table
+The CREATE TABLE statement is used for creating a new table. The syntax is −
+
+      SQL> CREATE TABLE table_name
+           (
+              column_name column_data_type,
+              column_name column_data_type,
+              column_name column_data_type
+              ...
+           );
+
+**Example**
+The following SQL statement creates a table named Employees with four columns −
+
+      SQL> CREATE TABLE Employees
+          (
+            id INT NOT NULL ,
+            age INT NOT NULL,
+            name VARCHAR(255),
+            surname VARCHAR(255),
+            PRIMARY KEY ( id )
+          );     
+
+### Drop Table
+The DROP TABLE statement is used for deleting an existing table. The syntax is −
+
+      SQL> DROP TABLE table_name;
+
+**Example**
+The following SQL statement deletes a table named Employees −
+
+      SQL> DROP TABLE Employees;
+      
+      
+      
+      
+      
+### INSERT Data
+The syntax for INSERT, looks similar to the following, where column1, column2, and so on represents the new data to appear in the respective columns −
+
+      SQL> INSERT INTO table_name VALUES (column1, column2, ...);
+
+**Example**
+The following SQL INSERT statement inserts a new row in the Employees database created earlier −
+
+      SQL> INSERT INTO Employees(id,age,name,surname) VALUES (100, 18, 'Suraj', 'Vishwakarma');
+
+
+**Insert Data Only in Specified Columns**
+
+It is also possible to only insert data in specific columns.
+The following SQL statement will insert a new record, but only insert data in the "name" only.
+
+      SQL> INSERT INTO Employees(name) VALUES ('Swapnil')      
+
+
+
+
+### SELECT Data
+The SELECT statement is used to retrieve data from a database. The syntax for SELECT is −
+
+      SQL> SELECT column_name, column_name, ...
+      FROM table_name
+      WHERE conditions;
+The WHERE clause can use the comparison operators such as =, !=, <, >, <=,and >=, as well as the BETWEEN and LIKE operators.
+
+**Example**
+The following SQL statement selects the age, first and last columns from the Employees table, where id column is 100 −
+
+      SQL> SELECT first, last, age 
+           FROM Employees 
+           WHERE id = 100;
+The following SQL statement selects the age, first and last columns from the Employees table where first column contains Zara −
+
+SQL> SELECT first, last, age 
+     FROM Employees 
+     WHERE first LIKE '%Zara%'
