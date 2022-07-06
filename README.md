@@ -128,7 +128,7 @@ The following SQL statement selects the age, first and last columns from the Emp
            
            
            
-### UPDATE Data
+### • UPDATE Data
 The UPDATE statement is used to update data. The syntax for UPDATE is −
 
       SQL> UPDATE table_name
@@ -143,7 +143,7 @@ The following SQL UPDATE statement changes the age column of the employee whose 
       SQL> UPDATE Employees SET age=20 WHERE id=100;           
 
 
-### DELETE Data
+### • DELETE Data
 The DELETE statement is used to delete data from tables. The syntax for DELETE is −
 
       SQL> DELETE FROM table_name WHERE conditions;
