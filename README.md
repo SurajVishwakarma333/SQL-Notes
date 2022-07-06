@@ -7,11 +7,11 @@
 
 ### Define = Database ?
    
-- A **database** is an application that stores a collection of data.
+- A ***database*** is an application that stores a collection of data.
 
 ### Define = Relational DataBase Management System (RDBMS) ?
  
-- These database deals the data in the form of tables.
+- ***RDBMS*** database deals the data in the form of tables.
   
 ### Primary Key 
 
@@ -19,5 +19,5 @@
 
 ### Foreign Key 
 
-- A **foreign key** is the linking pin between two tables.
+- A ***foreign key*** is the linking pin between two tables.
   
