@@ -26,7 +26,7 @@ ________________________________________________________________________________
  
 # CRUD(Create, Read, Update, and Delete) Operations Concept :
 
-### Create Database :
+### • Create Database :
 The CREATE DATABASE statement is used for creating a new database. The syntax is −
 
       SQL> CREATE DATABASE DATABASE_NAME;
@@ -37,7 +37,7 @@ The following SQL statement creates a Database named Employee :
       SQL> CREATE DATABASE Employee;
 
 
-### Drop Database
+### • Drop Database
 The DROP DATABASE statement is used for deleting an existing database. The syntax is −
 
       SQL> DROP DATABASE DATABASE_NAME;
@@ -48,7 +48,7 @@ The following SQL statement drop/delete a Database named Employee :
       SQL> DROP DATABASE Employee;      
       
       
-### Create Table
+### • Create Table
 The CREATE TABLE statement is used for creating a new table. The syntax is −
 
       SQL> CREATE TABLE table_name
@@ -71,7 +71,7 @@ The following SQL statement creates a table named Employees with four columns �
             PRIMARY KEY ( id )
           );     
 
-### Drop Table
+### • Drop Table
 The DROP TABLE statement is used for deleting an existing table. The syntax is −
 
       SQL> DROP TABLE table_name;
@@ -85,7 +85,7 @@ The following SQL statement deletes a table named Employees −
       
       
       
-### INSERT Data
+### • INSERT Data
 The syntax for INSERT, looks similar to the following, where column1, column2, and so on represents the new data to appear in the respective columns −
 
       SQL> INSERT INTO table_name VALUES (column1, column2, ...);
@@ -106,7 +106,7 @@ The following SQL statement will insert a new record, but only insert data in th
 
 
 
-### SELECT Data
+### • SELECT Data
 The SELECT statement is used to retrieve data from a database. The syntax for SELECT is −
 
       SQL> SELECT column_name, column_name, ...
