@@ -22,7 +22,10 @@
 - A **foreign key** is the linking pin between two tables.
 
 _______________________________________________________________________________________________________________________________________________________________________
-  
+ 
+ 
+# CRUD(Create, Read, Update, and Delete) Operations Concept :
+
 ### Create Database :
 The CREATE DATABASE statement is used for creating a new database. The syntax is −
 
