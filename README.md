@@ -21,3 +21,12 @@
 
 - A **foreign key** is the linking pin between two tables.
   
+### Create Database :
+The CREATE DATABASE statement is used for creating a new database. The syntax is −
+
+- SQL> CREATE DATABASE DATABASE_NAME;
+
+**Example**
+The following SQL statement creates a Database named Employee :
+
+         SQL> CREATE DATABASE Employee;
