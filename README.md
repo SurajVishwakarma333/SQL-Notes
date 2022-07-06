@@ -2,12 +2,12 @@
 
 ### Define = SQL ?
    
-- Structured Query Language (SQL) is a standardized language that allows you to perform operations on a database, such as creating entries, reading content, updating content, and deleting entries.Basically CRUD operations.
-- SQL is supported by almost any database you will likely use.
+  - Structured Query Language (SQL) is a standardized language that allows you to perform operations on a database, such as creating entries, reading content, updating       content, and deleting entries.Basically CRUD operations.
+  - SQL is supported by almost any database you will likely use.
 
 ### Define = Database ?
   
-- A database is an application that stores a collection of data.
+  - A database is an application that stores a collection of data.
 
 ### Define = Relational DataBase Management System (RDBMS) ?
 
