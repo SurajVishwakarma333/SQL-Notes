@@ -117,11 +117,39 @@ The WHERE clause can use the comparison operators such as =, !=, <, >, <=,and >=
 **Example**
 The following SQL statement selects the age, first and last columns from the Employees table, where id column is 100 −
 
-      SQL> SELECT first, last, age 
+      SQL> SELECT age, name, surname 
            FROM Employees 
            WHERE id = 100;
 The following SQL statement selects the age, first and last columns from the Employees table where first column contains Zara −
 
-SQL> SELECT first, last, age 
-     FROM Employees 
-     WHERE first LIKE '%Zara%'
+      SQL> SELECT name, surname, age 
+           FROM Employees 
+           WHERE first LIKE '%Suraj%'
+           
+           
+           
+### UPDATE Data
+The UPDATE statement is used to update data. The syntax for UPDATE is −
+
+      SQL> UPDATE table_name
+      SET column_name = value, column_name = value, ...
+      WHERE conditions;
+
+The WHERE clause can use the comparison operators such as =, !=, <, >, <=,and >=, as well as the BETWEEN and LIKE operators.
+
+**Example**
+The following SQL UPDATE statement changes the age column of the employee whose id is 100 −
+
+      SQL> UPDATE Employees SET age=20 WHERE id=100;           
+
+
+### DELETE Data
+The DELETE statement is used to delete data from tables. The syntax for DELETE is −
+
+      SQL> DELETE FROM table_name WHERE conditions;
+The WHERE clause can use the comparison operators such as =, !=, <, >, <=,and >=, as well as the BETWEEN and LIKE operators.
+
+**Example**
+The following SQL DELETE statement deletes the record of the employee whose id is 100 −
+
+      SQL> DELETE FROM Employees WHERE id=100;
