@@ -11,7 +11,7 @@
 
 ### Define = Relational DataBase Management System (RDBMS) ?
 
-− These database deals the data in the form of tables.
+- These database deals the data in the form of tables.
   
 ### Primary Key 
 
