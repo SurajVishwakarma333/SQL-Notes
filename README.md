@@ -20,6 +20,8 @@
 ### Foreign Key 
 
 - A **foreign key** is the linking pin between two tables.
+
+_______________________________________________________________________________________________________________________________________________________________________
   
 ### Create Database :
 The CREATE DATABASE statement is used for creating a new database. The syntax is −
