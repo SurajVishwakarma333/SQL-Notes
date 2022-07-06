@@ -15,7 +15,7 @@
   
 ### Primary Key 
 
-- A ***primary key*** is unique. A key value can not occur twice in one table. With a key, you can only find one row.
+- ***A primary key is unique. A key value can not occur twice in one table. With a key, you can only find one row.***
 
 ### Foreign Key 
 
