@@ -222,14 +222,21 @@ ________________________________________________________________________________
          SELECT * FROM Customers
          WHERE Country='Germany' AND City='Berlin';
          
+ ![1](https://user-images.githubusercontent.com/101108540/178264335-44fda380-1511-4722-b844-4e001c6f006f.jpg)
+             
+         
 **• OR Example**
 
          SELECT * FROM Customers
          WHERE City='Berlin' OR City='München';
+         
+ ![2](https://user-images.githubusercontent.com/101108540/178264380-aa6b4fcc-ca50-4430-9b93-4b6c1ba057bc.jpg)
+        
          
 **• NOT Example**
 
          SELECT * FROM Customers
          WHERE NOT Country='Germany';         
          
+![3](https://user-images.githubusercontent.com/101108540/178264409-b447b3f9-016b-44f2-8ef3-b7bc10826b99.jpg)
 
