@@ -153,3 +153,29 @@ The WHERE clause can use the comparison operators such as =, !=, <, >, <=,and >=
 The following SQL DELETE statement deletes the record of the employee whose id is 100 −
 
       SQL> DELETE FROM Employees WHERE id=100;
+      
+      
+      
+# Some Important topics to be covered while studying sql.
+
+use this "Customers" table as all forward topics examples:
+
+![exm](https://user-images.githubusercontent.com/101108540/178256575-979830c5-72d8-48d2-a63a-a15e5790d9b3.jpg)
+
+
+### 1: Distinct = skip duplicate.
+
+**SELECT Example Without DISTINCT :**
+
+      SELECT Country FROM Customers;
+      
+![1](https://user-images.githubusercontent.com/101108540/178257025-a27d0b42-2212-46fb-8ae3-de18f92bf839.jpg)
+ 
+      
+**SELECT Example With DISTINCT :**   
+
+        SELECT Distinct Country FROM Customers; 
+        
+![2](https://user-images.githubusercontent.com/101108540/178257051-7d41f9fa-0ada-4760-a8ff-fb3d54aa560f.jpg)
+        
+      
