@@ -251,18 +251,42 @@ ________________________________________________________________________________
 
 ### 4 : SQL ORDER BY Keyword = used to sort the result-set in ascending or descending order.
 
-**ORDER BY Example**
+**• ORDER BY Example**
 
          SELECT * FROM Customers
          ORDER BY Country;          //by default it will take as ascending order
          
 ![1](https://user-images.githubusercontent.com/101108540/178271119-dfcbd3c1-6f11-4175-a0fa-66386ff2556f.jpg)
              
-**ORDER BY DESC Example**
+**• ORDER BY DESC Example**
 
          SELECT * FROM Customers
          ORDER BY Country DESC;
          
 ![2](https://user-images.githubusercontent.com/101108540/178271140-95abea3c-d88e-4723-a82c-b1c875dc2a19.jpg)
 
+_______________________________________________________________________________________________________________________________________________________________________
+        
+★  Use this "Products" table as an examples:
+   
+     Select * from Customers;
+     
+![product](https://user-images.githubusercontent.com/101108540/178272714-9647bf5c-b0c3-4c30-bb0f-b587fc1add68.jpg)
+     
+  
+### 5 : SQL MIN() and MAX() Functions  
+
+**• MIN() Example = The MIN() function returns the smallest value of the selected column.**
+
+         SELECT MIN(Price) AS SmallestPrice
+         FROM Products;
          
+![1](https://user-images.githubusercontent.com/101108540/178273467-fbe8c10a-502e-4691-b046-5f7d0b73ba18.jpg)
+         
+
+**• MIN() Example = The MAX() function returns the largest value of the selected column.**
+
+         SELECT MAX(Price) AS LargestPrice
+         FROM Products;
+
+![2](https://user-images.githubusercontent.com/101108540/178273500-8a0ef64d-b483-487a-aaf1-105607748bbf.jpg)
