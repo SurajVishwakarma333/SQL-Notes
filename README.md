@@ -157,7 +157,9 @@ ________________________________________________________________________________
       
 # Some Important topics to be covered while studying sql.
 
-use this "Customers" table as all forward topics examples:
+  use this "Customers" table as all forward topics examples:
+   
+     Select * from Customers;
 
 ![exm](https://user-images.githubusercontent.com/101108540/178256575-979830c5-72d8-48d2-a63a-a15e5790d9b3.jpg)
 
