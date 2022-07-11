@@ -269,7 +269,7 @@ ________________________________________________________________________________
         
 ★  Use this "Products" table as an examples:
    
-     Select * from Customers;
+     Select * from Products;
      
 ![product](https://user-images.githubusercontent.com/101108540/178272714-9647bf5c-b0c3-4c30-bb0f-b587fc1add68.jpg)
      
@@ -278,15 +278,13 @@ ________________________________________________________________________________
 
 **• MIN() Example = The MIN() function returns the smallest value of the selected column.**
 
-         SELECT MIN(Price) AS SmallestPrice
-         FROM Products;
+         SELECT MIN(Price) FROM Products;
          
 ![1](https://user-images.githubusercontent.com/101108540/178273467-fbe8c10a-502e-4691-b046-5f7d0b73ba18.jpg)
          
 
 **• MIN() Example = The MAX() function returns the largest value of the selected column.**
 
-         SELECT MAX(Price) AS LargestPrice
-         FROM Products;
+         SELECT MAX(Price) FROM Products;
 
 ![2](https://user-images.githubusercontent.com/101108540/178273500-8a0ef64d-b483-487a-aaf1-105607748bbf.jpg)
