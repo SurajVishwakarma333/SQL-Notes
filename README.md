@@ -164,7 +164,7 @@ The following SQL DELETE statement deletes the record of the employee whose id i
 ![exm](https://user-images.githubusercontent.com/101108540/178256575-979830c5-72d8-48d2-a63a-a15e5790d9b3.jpg)
 
 
-### 1 : Distinct = skip duplicate.
+### 1 : sql Distinct = skip duplicate.
 
 **• SELECT Example Without DISTINCT :**
 
@@ -206,3 +206,28 @@ ________________________________________________________________________________
      
 
 ![3](https://user-images.githubusercontent.com/101108540/178262073-c423f86c-65ef-4278-8212-e977d6f12481.jpg)
+
+_______________________________________________________________________________________________________________________________________________________________________
+        
+  Use this "Customers" table as an examples:
+   
+     Select * from Customers;
+
+### 3 : SQL AND, OR and NOT Operators 
+
+**• AND Example**
+
+         SELECT * FROM Customers
+         WHERE Country='Germany' AND City='Berlin';
+         
+**• OR Example**
+
+         SELECT * FROM Customers
+         WHERE City='Berlin' OR City='München';
+         
+**• NOT Example**
+
+         SELECT * FROM Customers
+         WHERE NOT Country='Germany';         
+         
+
