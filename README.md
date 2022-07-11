@@ -240,3 +240,30 @@ ________________________________________________________________________________
          
 ![3](https://user-images.githubusercontent.com/101108540/178264409-b447b3f9-016b-44f2-8ef3-b7bc10826b99.jpg)
 
+_______________________________________________________________________________________________________________________________________________________________________
+        
+  Use this "Customers" table as an examples:
+   
+     Select * from Customers;
+     
+![exm](https://user-images.githubusercontent.com/101108540/178256575-979830c5-72d8-48d2-a63a-a15e5790d9b3.jpg)
+
+
+### 4 : SQL ORDER BY Keyword = used to sort the result-set in ascending or descending order.
+
+**ORDER BY Example**
+
+         SELECT * FROM Customers
+         ORDER BY Country;          //by default it will take as ascending order
+         
+**ORDER BY DESC Example**
+
+         SELECT * FROM Customers
+         ORDER BY Country DESC;
+         
+**ORDER BY Several Columns Example**
+
+         SELECT * FROM Customers
+         ORDER BY Country, CustomerName;
+
+         
