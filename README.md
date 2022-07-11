@@ -179,13 +179,13 @@ The following SQL DELETE statement deletes the record of the employee whose id i
         
 ![2](https://user-images.githubusercontent.com/101108540/178257051-7d41f9fa-0ada-4760-a8ff-fb3d54aa560f.jpg)
         
+_______________________________________________________________________________________________________________________________________________________________________
         
   Use this "Customers" table as an examples:
    
      Select * from Customers;
 
 ![exm](https://user-images.githubusercontent.com/101108540/178256575-979830c5-72d8-48d2-a63a-a15e5790d9b3.jpg)
-_______________________________________________________________________________________________________________________________________________________________________
 
 ### 2 : SQL WHERE Clause = The WHERE clause is used to filter records.
 
