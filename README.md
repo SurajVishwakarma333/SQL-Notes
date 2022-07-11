@@ -157,7 +157,7 @@ The following SQL DELETE statement deletes the record of the employee whose id i
       
 # Some Important topics to be covered while studying sql.
 
-  Use this "Customers" table as an examples:
+★  Use this "Customers" table as an examples:
    
      Select * from Customers;
 
