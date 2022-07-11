@@ -212,6 +212,8 @@ ________________________________________________________________________________
   Use this "Customers" table as an examples:
    
      Select * from Customers;
+     
+![exm](https://user-images.githubusercontent.com/101108540/178256575-979830c5-72d8-48d2-a63a-a15e5790d9b3.jpg)     
 
 ### 3 : SQL AND, OR and NOT Operators 
 
