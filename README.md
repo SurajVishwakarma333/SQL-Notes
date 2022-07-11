@@ -181,7 +181,7 @@ The following SQL DELETE statement deletes the record of the employee whose id i
         
 _______________________________________________________________________________________________________________________________________________________________________
         
-  Use this "Customers" table as an examples:
+ ★ Use this "Customers" table as an examples:
    
      Select * from Customers;
 
@@ -209,7 +209,7 @@ ________________________________________________________________________________
 
 _______________________________________________________________________________________________________________________________________________________________________
         
-  Use this "Customers" table as an examples:
+★  Use this "Customers" table as an examples:
    
      Select * from Customers;
      
@@ -242,7 +242,7 @@ ________________________________________________________________________________
 
 _______________________________________________________________________________________________________________________________________________________________________
         
-  Use this "Customers" table as an examples:
+★  Use this "Customers" table as an examples:
    
      Select * from Customers;
      
