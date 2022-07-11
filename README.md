@@ -21,7 +21,7 @@
 
 - A **foreign key** is the linking pin between two tables.
 
-______________________________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________________________________
  
  
 # CRUD(Create, Read, Update, and Delete) Operations Concept :
@@ -83,8 +83,6 @@ The following SQL statement deletes a table named Employees −
       
       
       
-      
-      
 ### • INSERT Data
 The syntax for INSERT, looks similar to the following, where column1, column2, and so on represents the new data to appear in the respective columns −
 
@@ -143,6 +141,7 @@ The following SQL UPDATE statement changes the age column of the employee whose 
       SQL> UPDATE Employees SET age=20 WHERE id=100;           
 
 
+
 ### • DELETE Data
 The DELETE statement is used to delete data from tables. The syntax for DELETE is −
 
@@ -154,7 +153,7 @@ The following SQL DELETE statement deletes the record of the employee whose id i
 
       SQL> DELETE FROM Employees WHERE id=100;
       
-      
+_______________________________________________________________________________________________________________________________________________________________________      
       
 # Some Important topics to be covered while studying sql.
 
