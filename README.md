@@ -177,4 +177,17 @@ use this "Customers" table as all forward topics examples:
         
 ![2](https://user-images.githubusercontent.com/101108540/178257051-7d41f9fa-0ada-4760-a8ff-fb3d54aa560f.jpg)
         
+        
+        
+### 2 : SQL WHERE Clause = The WHERE clause is used to filter records.
+
+WHERE Clause Example 1:
+
+         SELECT * FROM Customers
+         WHERE Country='Mexico';
+
+WHERE Clause Example 2:
+
+         SELECT * FROM Customers
+         WHERE CustomerID=1;
       
