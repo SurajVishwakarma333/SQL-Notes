@@ -157,7 +157,7 @@ ________________________________________________________________________________
       
 # Some Important topics to be covered while studying sql.
 
-  use this "Customers" table as an examples:
+  Use this "Customers" table as an examples:
    
      Select * from Customers;
 
@@ -180,16 +180,26 @@ ________________________________________________________________________________
 ![2](https://user-images.githubusercontent.com/101108540/178257051-7d41f9fa-0ada-4760-a8ff-fb3d54aa560f.jpg)
         
         
-        
+  Use this "Customers" table as an examples:
+   
+     Select * from Customers;
+
+![exm](https://user-images.githubusercontent.com/101108540/178256575-979830c5-72d8-48d2-a63a-a15e5790d9b3.jpg)
+
 ### 2 : SQL WHERE Clause = The WHERE clause is used to filter records.
 
 WHERE Clause Example 1:
 
          SELECT * FROM Customers
          WHERE Country='Mexico';
+         
+![11](https://user-images.githubusercontent.com/101108540/178260840-d0076493-56d0-488d-b41d-b6cebffa3499.jpg)
+         
 
 WHERE Clause Example 2:
 
          SELECT * FROM Customers
          WHERE CustomerID=1;
-      
+         
+ ![2](https://user-images.githubusercontent.com/101108540/178260866-536a663e-12a8-462f-a7fc-d86697b98d4c.jpg)
+     
