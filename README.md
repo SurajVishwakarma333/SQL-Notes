@@ -256,14 +256,13 @@ ________________________________________________________________________________
          SELECT * FROM Customers
          ORDER BY Country;          //by default it will take as ascending order
          
+![1](https://user-images.githubusercontent.com/101108540/178271119-dfcbd3c1-6f11-4175-a0fa-66386ff2556f.jpg)
+             
 **ORDER BY DESC Example**
 
          SELECT * FROM Customers
          ORDER BY Country DESC;
          
-**ORDER BY Several Columns Example**
-
-         SELECT * FROM Customers
-         ORDER BY Country, CustomerName;
+![2](https://user-images.githubusercontent.com/101108540/178271140-95abea3c-d88e-4723-a82c-b1c875dc2a19.jpg)
 
          
