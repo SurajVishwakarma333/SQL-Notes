@@ -280,11 +280,12 @@ ________________________________________________________________________________
 
          SELECT MIN(Price) FROM Products;
          
-![1](https://user-images.githubusercontent.com/101108540/178273467-fbe8c10a-502e-4691-b046-5f7d0b73ba18.jpg)
-         
+ ![1](https://user-images.githubusercontent.com/101108540/178275157-a757fe49-d2b6-492d-a951-fdbc6e0af68b.jpg)
+        
 
 **• MIN() Example = The MAX() function returns the largest value of the selected column.**
 
          SELECT MAX(Price) FROM Products;
+         
+![2](https://user-images.githubusercontent.com/101108540/178275185-2c559ab3-7e18-441c-a1bb-6b0fd3efd82d.jpg)
 
-![2](https://user-images.githubusercontent.com/101108540/178273500-8a0ef64d-b483-487a-aaf1-105607748bbf.jpg)
