@@ -2,7 +2,7 @@
 
 ### Define = SQL ?
    
-- ***Structured Query Language (SQL)*** is a standardized language that allows us to perform operations on a database, such as creating entries, reading content, updating     content, and deleting entries.Basically CRUD operations.
+- ***Structured Query Language (SQL)*** is a query language that allows us to perform operations on a database, such as creating entries, reading content, updating     content, and deleting entries.Basically CRUD operations.
 - **SQL** is supported by almost any database you will likely use.
 
 ### Define = Database ?
