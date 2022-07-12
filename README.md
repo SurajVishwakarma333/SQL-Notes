@@ -289,3 +289,14 @@ ________________________________________________________________________________
          
 ![2](https://user-images.githubusercontent.com/101108540/178275185-2c559ab3-7e18-441c-a1bb-6b0fd3efd82d.jpg)
 
+_______________________________________________________________________________________________________________________________________________________________________
+        
+★  Use this "Products" table as an examples:
+   
+     Select * from Products;
+     
+![product](https://user-images.githubusercontent.com/101108540/178272714-9647bf5c-b0c3-4c30-bb0f-b587fc1add68.jpg)
+
+### 5 : SQL COUNT(), AVG() and SUM() Functions**
+
+**• COUNT() Example**
