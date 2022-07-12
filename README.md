@@ -299,7 +299,7 @@ ________________________________________________________________________________
 
 ### 5 : SQL COUNT(), AVG() and SUM() Functions
 
-**• COUNT() Example = The COUNT() function returns the number of rows.**
+**• COUNT() Example = The COUNT() function returns the number of Records.**
 
          SELECT COUNT(ProductID)
          FROM Products;
