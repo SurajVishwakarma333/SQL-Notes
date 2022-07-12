@@ -329,7 +329,7 @@ ________________________________________________________________________________
      
 ![product](https://user-images.githubusercontent.com/101108540/178272714-9647bf5c-b0c3-4c30-bb0f-b587fc1add68.jpg)       
 
-### 6 :SQL LIKE Operator
+### 6 : SQL LIKE Operator
 
 **• LIKE Example = The LIKE operator is used in a WHERE clause to search for a specified pattern in a column.**
 
@@ -341,3 +341,30 @@ ________________________________________________________________________________
 
 ![Screenshot 2022-07-12 185040](https://user-images.githubusercontent.com/101108540/178499909-ec14aed9-725b-4eb1-afe9-6cf9124cbcdc.jpg)
 
+_______________________________________________________________________________________________________________________________________________________________________
+  
+★  Use this "Products" table as an examples:
+   
+     Select * from Products;
+     
+![product](https://user-images.githubusercontent.com/101108540/178272714-9647bf5c-b0c3-4c30-bb0f-b587fc1add68.jpg)       
+
+### 7 : SQL BETWEEN Operator
+
+**• BETWEEN Example = The BETWEEN operator selects values within a given range. The values can be numbers, text, or dates.**
+
+         SELECT * FROM Products
+         WHERE Price BETWEEN 10 AND 20;
+         
+![1](https://user-images.githubusercontent.com/101108540/178501657-8fdac6c0-ff99-46f4-9e86-8feb1857cebd.jpg)
+    
+**• NOT BETWEEN Example = The BETWEEN operator selects values within a given range. The values can be numbers, text, or dates.**
+
+         SELECT * FROM Products
+         WHERE Price NOT BETWEEN 10 AND 20;
+         
+![2](https://user-images.githubusercontent.com/101108540/178501985-427fe93e-a9d9-47c9-bdb6-0e33a44106b2.jpg)
+
+
+         
+         
