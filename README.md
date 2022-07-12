@@ -317,7 +317,7 @@ ________________________________________________________________________________
 **• SUM() Example = The SUM() function returns the total sum of a numeric column.**
 
          SELECT SUM(Price)
-         FROM OrderDetails;
+         FROM Products;
          
 ![3](https://user-images.githubusercontent.com/101108540/178496663-845d51fe-93ba-4c32-a707-92b272c41c9b.jpg)
   
