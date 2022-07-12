@@ -299,4 +299,17 @@ ________________________________________________________________________________
 
 ### 5 : SQL COUNT(), AVG() and SUM() Functions**
 
-**• COUNT() Example**
+**• COUNT() Example = The COUNT() function returns the number of rows that matches a specified criterion.**
+
+         SELECT COUNT(ProductID)
+         FROM Products;
+
+**• AVG() Example = The AVG() function returns the average value of a numeric column.**
+
+         SELECT AVG(Price)
+         FROM Products;
+
+**• SUM() Example = The SUM() function returns the total sum of a numeric column.**
+
+         SELECT SUM(Quantity)
+         FROM OrderDetails;
