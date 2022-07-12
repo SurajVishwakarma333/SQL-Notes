@@ -303,13 +303,22 @@ ________________________________________________________________________________
 
          SELECT COUNT(ProductID)
          FROM Products;
+         
+ ![1](https://user-images.githubusercontent.com/101108540/178495610-a8bafaf5-1058-4fc3-84bb-c96b958c03b7.jpg)     
 
 **• AVG() Example = The AVG() function returns the average value of a numeric column.**
 
          SELECT AVG(Price)
          FROM Products;
+         
+  ![2](https://user-images.githubusercontent.com/101108540/178496342-e478c49e-b955-4996-988c-ce3c18bad9e9.jpg)
+                
 
 **• SUM() Example = The SUM() function returns the total sum of a numeric column.**
 
-         SELECT SUM(Quantity)
+         SELECT SUM(Price)
          FROM OrderDetails;
+         
+![3](https://user-images.githubusercontent.com/101108540/178496663-845d51fe-93ba-4c32-a707-92b272c41c9b.jpg)
+         
+         
