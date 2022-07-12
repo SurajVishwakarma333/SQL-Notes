@@ -164,7 +164,7 @@ The following SQL DELETE statement deletes the record of the employee whose id i
 ![exm](https://user-images.githubusercontent.com/101108540/178256575-979830c5-72d8-48d2-a63a-a15e5790d9b3.jpg)
 
 
-### 1 : sql Distinct = skip duplicate.
+### 1 : SQL Distinct = skip duplicate.
 
 **• SELECT Example Without DISTINCT :**
 
