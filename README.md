@@ -338,3 +338,6 @@ ________________________________________________________________________________
          WHERE ProductsName LIKE 'a%';
 
 ![1](https://user-images.githubusercontent.com/101108540/178499036-9de21c4f-c549-42ae-a09e-809d75b3d04b.jpg)
+
+![Screenshot 2022-07-12 185040](https://user-images.githubusercontent.com/101108540/178499909-ec14aed9-725b-4eb1-afe9-6cf9124cbcdc.jpg)
+
