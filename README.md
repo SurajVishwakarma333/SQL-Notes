@@ -297,9 +297,9 @@ ________________________________________________________________________________
      
 ![product](https://user-images.githubusercontent.com/101108540/178272714-9647bf5c-b0c3-4c30-bb0f-b587fc1add68.jpg)
 
-### 5 : SQL COUNT(), AVG() and SUM() Functions**
+### 5 : SQL COUNT(), AVG() and SUM() Functions
 
-**• COUNT() Example = The COUNT() function returns the number of rows that matches a specified criterion.**
+**• COUNT() Example = The COUNT() function returns the number of rows.**
 
          SELECT COUNT(ProductID)
          FROM Products;
