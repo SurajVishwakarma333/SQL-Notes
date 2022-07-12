@@ -320,5 +320,21 @@ ________________________________________________________________________________
          FROM OrderDetails;
          
 ![3](https://user-images.githubusercontent.com/101108540/178496663-845d51fe-93ba-4c32-a707-92b272c41c9b.jpg)
-         
-         
+  
+_______________________________________________________________________________________________________________________________________________________________________
+  
+★  Use this "Products" table as an examples:
+   
+     Select * from Products;
+     
+![product](https://user-images.githubusercontent.com/101108540/178272714-9647bf5c-b0c3-4c30-bb0f-b587fc1add68.jpg)       
+
+### 6 :SQL LIKE Operator
+
+**• LIKE Example = The LIKE operator is used in a WHERE clause to search for a specified pattern in a column.**
+
+
+         SELECT * FROM Products
+         WHERE ProductsName LIKE 'a%';
+
+![1](https://user-images.githubusercontent.com/101108540/178499036-9de21c4f-c549-42ae-a09e-809d75b3d04b.jpg)
