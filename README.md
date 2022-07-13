@@ -370,6 +370,6 @@ ________________________________________________________________________________
 
 ![1](https://user-images.githubusercontent.com/101108540/178723724-4a550f16-4919-466c-a2f1-ba2e0f3868f1.jpg)
 
-### 7 : SQL JOIN         
+### 9 : SQL JOIN         
 
 A JOIN clause is used to combine rows from two or more tables, based on a related column between them.
