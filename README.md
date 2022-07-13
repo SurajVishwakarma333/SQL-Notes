@@ -366,5 +366,8 @@ ________________________________________________________________________________
 ![2](https://user-images.githubusercontent.com/101108540/178501985-427fe93e-a9d9-47c9-bdb6-0e33a44106b2.jpg)
 
 
-         
+### 7 : SQL Aliases  
+
+![1](https://user-images.githubusercontent.com/101108540/178723724-4a550f16-4919-466c-a2f1-ba2e0f3868f1.jpg)
+
          
