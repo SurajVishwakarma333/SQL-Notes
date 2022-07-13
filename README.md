@@ -297,7 +297,7 @@ ________________________________________________________________________________
      
 ![product](https://user-images.githubusercontent.com/101108540/178272714-9647bf5c-b0c3-4c30-bb0f-b587fc1add68.jpg)
 
-### 5 : SQL COUNT(), AVG() and SUM() Functions
+### 6 : SQL COUNT(), AVG() and SUM() Functions
 
 **• COUNT() Example = The COUNT() function returns the number of Records.**
 
@@ -329,7 +329,7 @@ ________________________________________________________________________________
      
 ![product](https://user-images.githubusercontent.com/101108540/178272714-9647bf5c-b0c3-4c30-bb0f-b587fc1add68.jpg)       
 
-### 6 : SQL LIKE Operator
+### 7 : SQL LIKE Operator
 
 **• LIKE Example = The LIKE operator is used in a WHERE clause to search for a specified pattern in a column.**
 
@@ -349,7 +349,7 @@ ________________________________________________________________________________
      
 ![product](https://user-images.githubusercontent.com/101108540/178272714-9647bf5c-b0c3-4c30-bb0f-b587fc1add68.jpg)       
 
-### 7 : SQL BETWEEN Operator
+### 8 : SQL BETWEEN Operator
 
 **• BETWEEN Example = The BETWEEN operator selects values within a given range. The values can be numbers, text, or dates.**
 
@@ -365,11 +365,13 @@ ________________________________________________________________________________
          
 ![2](https://user-images.githubusercontent.com/101108540/178501985-427fe93e-a9d9-47c9-bdb6-0e33a44106b2.jpg)
 
+_______________________________________________________________________________________________________________________________________________________________________
 
-### 8 : SQL Aliases  
+### 9 : SQL Aliases  
 
 ![1](https://user-images.githubusercontent.com/101108540/178723724-4a550f16-4919-466c-a2f1-ba2e0f3868f1.jpg)
+_______________________________________________________________________________________________________________________________________________________________________
 
-### 9 : SQL JOIN         
+### 10 : SQL JOIN         
 
 A JOIN clause is used to combine rows from two or more tables, based on a related column between them.
