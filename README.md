@@ -380,11 +380,10 @@ A JOIN clause is used to combine rows from two or more tables, based on a relate
 
 **I. INNER JOIN = Inner joins combine records from two tables whenever there are matching values in a field common to both tables.**
 
-![tables](https://user-images.githubusercontent.com/101108540/178924391-bbccb6dc-8699-49dd-bef3-54304026125f.jpg)
+![1](https://user-images.githubusercontent.com/101108540/178933871-d98c80cb-fe83-47cd-9ca3-33f522d4b1e9.jpg)
 
-            Select * From tb1Country
-              inner join tb1State
-              on tb1Country.CountryID=tb1State.Countryid
-              
-![1](https://user-images.githubusercontent.com/101108540/178926370-ef262b4d-771f-40da-b165-12228bcc52a4.jpg)
+![2](https://user-images.githubusercontent.com/101108540/178934167-25e874bb-3e04-4042-a671-5733d399bbf3.jpg)
             
+**II. LEFT JOIN = The LEFT JOIN command returns all rows from the left table, and the matching rows from the right table. The result is NULL from the right side, if there is no match.**
+
+
