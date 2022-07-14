@@ -385,3 +385,6 @@ A JOIN clause is used to combine rows from two or more tables, based on a relate
             Select * From tb1Country
               inner join tb1State
               on tb1Country.CountryID=tb1State.Countryid
+              
+![1](https://user-images.githubusercontent.com/101108540/178926370-ef262b4d-771f-40da-b165-12228bcc52a4.jpg)
+            
