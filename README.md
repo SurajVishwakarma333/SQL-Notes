@@ -396,3 +396,8 @@ A JOIN clause is used to combine rows from two or more tables, based on a relate
 
 ![11](https://user-images.githubusercontent.com/101108540/178991175-c6a54e23-9a0c-417b-ba8f-5908fba5e6e5.jpg)
 
+![22](https://user-images.githubusercontent.com/101108540/178993877-b03e9620-3a78-4d66-938b-db8ed37ab567.jpg)
+
+![33](https://user-images.githubusercontent.com/101108540/178994032-515394bb-1f9e-4f02-8eb7-0bbfcce7b6cd.jpg)
+
+
