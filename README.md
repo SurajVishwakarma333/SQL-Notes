@@ -383,6 +383,11 @@ A JOIN clause is used to combine rows from two or more tables, based on a relate
 ![1](https://user-images.githubusercontent.com/101108540/178933871-d98c80cb-fe83-47cd-9ca3-33f522d4b1e9.jpg)
 
 ![2](https://user-images.githubusercontent.com/101108540/178934167-25e874bb-3e04-4042-a671-5733d399bbf3.jpg)
+
+![3](https://user-images.githubusercontent.com/101108540/178936177-2086c4ac-b19e-4a4e-8de2-dc65c4662b3f.jpg)
+
+![5](https://user-images.githubusercontent.com/101108540/178936200-13bd2994-f32f-4bf3-8890-f6d3ce6b98fe.jpg)
+
             
 **II. LEFT JOIN = The LEFT JOIN command returns all rows from the left table, and the matching rows from the right table. The result is NULL from the right side, if there is no match.**
 
