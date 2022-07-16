@@ -1,4 +1,3 @@
-# SQL-Notes
 
 ### Define = SQL ?
    
