@@ -418,3 +418,23 @@ A JOIN clause is used to combine rows from two or more tables, based on a relate
 ![33](https://user-images.githubusercontent.com/101108540/178994032-515394bb-1f9e-4f02-8eb7-0bbfcce7b6cd.jpg)
 
 
+**III. RIGHT JOIN =
+
+**IV. OUTER JOIN =
+
+
+### 10 : SQL ORDER BY Keyword 
+
+The ORDER BY keyword is used to sort the result-set in ascending or descending order.
+
+The ORDER BY keyword sorts the records in ascending order by default. To sort the records in descending order, use the DESC keyword.
+
+![0](https://user-images.githubusercontent.com/101108540/180167411-c68316fa-4dc8-4381-8a7f-79b4c3452daa.jpg)
+
+![1](https://user-images.githubusercontent.com/101108540/180167433-37efefff-537e-476c-8b4f-22a81ce81d67.jpg)
+
+![2](https://user-images.githubusercontent.com/101108540/180167449-cd25adda-69fa-49dc-8188-95bb5f4ace4f.jpg)
+
+![3](https://user-images.githubusercontent.com/101108540/180167459-e22aa873-1f87-4e5c-91e0-8be2fe96cd26.jpg)
+
+
