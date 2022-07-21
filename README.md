@@ -441,4 +441,11 @@ The ORDER BY keyword sorts the records in ascending order by default. To sort th
 ### 12 : STORED PROCEDURE
 
 - A stored procedure is also called as database object., because it get stored in database permanently.
-- 
+- A stored procedure can be stored in the database and can be reused over and over again.
+- We can pass parameter in stored procedure .,because can do programming in stored procedure.
+
+**Types of stored procedure :**
+
+1. User defined stored procedure : User defined stored procedure are created by developer/user.
+
+2. System defined stored procedure : System defined stored procedure are pre define function which was already present in sql server
