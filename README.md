@@ -456,3 +456,6 @@ The ORDER BY keyword sorts the records in ascending order by default. To sort th
          Select * from employee;
          
 ![1](https://user-images.githubusercontent.com/101108540/180214228-584cf201-7b06-4173-959e-cf0bc97a246a.jpg)
+
+![demmm](https://user-images.githubusercontent.com/101108540/180218944-91461ca2-7f3c-4f75-a2f1-2c0056027c05.jpg)
+
