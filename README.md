@@ -164,6 +164,9 @@ The following SQL DELETE statement deletes the record of the employee whose id i
 
       SQL> DELETE FROM Employees WHERE id=100;
       
+_______________________________________________________________________________________________________________________________________________________________________ 
+![Screenshot 2022-07-19 122424](https://user-images.githubusercontent.com/101108540/180154594-bfb0b718-ee2f-48fd-9d10-71235d4de167.jpg)
+     
  _______________________________________________________________________________________________________________________________________________________________________     
 
  ![Screenshot 2022-07-19 122342](https://user-images.githubusercontent.com/101108540/180142579-e1388552-c237-4299-a7f1-ce4eafb3fd19.jpg)
