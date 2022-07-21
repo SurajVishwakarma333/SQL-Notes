@@ -435,6 +435,7 @@ The ORDER BY keyword sorts the records in ascending order by default. To sort th
 
 ![2](https://user-images.githubusercontent.com/101108540/180167449-cd25adda-69fa-49dc-8188-95bb5f4ace4f.jpg)
 
-![3](https://user-images.githubusercontent.com/101108540/180167459-e22aa873-1f87-4e5c-91e0-8be2fe96cd26.jpg)
+![4](https://user-images.githubusercontent.com/101108540/180167892-12b21a02-b798-4aba-bdfa-20871d4c94b3.jpg)
+
 
 
