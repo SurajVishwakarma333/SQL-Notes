@@ -25,7 +25,7 @@
 
 - A **Unique key** is also a unique identifier for records when the primary key is not present  in the table.
 
-- We can store **Null** valie in unique key,but only one value is allowed.
+- We can store **Null** value in unique key,but only one value is allowed.
 
 - We can modify the uique key values.
 
