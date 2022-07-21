@@ -448,4 +448,11 @@ The ORDER BY keyword sorts the records in ascending order by default. To sort th
 
 1. User defined stored procedure : User defined stored procedure are created by developer/user.
 
-2. System defined stored procedure : System defined stored procedure are pre define function which was already present in sql server
+2. System defined stored procedure : System defined stored procedure are pre define function which was already present in sql server.
+
+
+**Example :**
+
+         Select * from employee;
+         
+![1](https://user-images.githubusercontent.com/101108540/180214228-584cf201-7b06-4173-959e-cf0bc97a246a.jpg)
