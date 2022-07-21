@@ -460,3 +460,5 @@ ________________________________________________________________________________
 
 ![demmm](https://user-images.githubusercontent.com/101108540/180218944-91461ca2-7f3c-4f75-a2f1-2c0056027c05.jpg)
 
+once Stored procedure created if we want to update or do something then instead of CREATE we have to write AlTER thats it.
+
