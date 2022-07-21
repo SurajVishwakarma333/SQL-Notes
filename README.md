@@ -423,7 +423,7 @@ A JOIN clause is used to combine rows from two or more tables, based on a relate
 **IV. OUTER JOIN =
 
 
-### 10 : SQL ORDER BY Keyword 
+### 11 : SQL ORDER BY Keyword 
 
 The ORDER BY keyword is used to sort the result-set in ascending or descending order.
 
@@ -438,4 +438,7 @@ The ORDER BY keyword sorts the records in ascending order by default. To sort th
 ![4](https://user-images.githubusercontent.com/101108540/180167892-12b21a02-b798-4aba-bdfa-20871d4c94b3.jpg)
 
 
+### 12 : STORED PROCEDURE
 
+- A stored procedure is also called as database object., because it get stored in database permanently.
+- 
