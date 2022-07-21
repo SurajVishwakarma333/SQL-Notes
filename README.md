@@ -15,7 +15,19 @@
   
 ### Primary Key 
 
-- A **primary key** is unique. A key value can not occur twice in one table. With a key, you can only find one row.
+- A **primary key** is unique identifier for each records in the table. A key value can not occur twice in one table.
+
+- We cannot store **NULL** value in the primary key.
+
+- We cannot change/delete the primary key values.
+
+### Unique Key 
+
+- A **Unique key** is also a unique identifier for records when the primary key is not present  in the table.
+
+- We can store **Null** valie in unique key,but only one value is allowed.
+
+- We can modify the uique key values.
 
 ### Foreign Key 
 
@@ -141,7 +153,6 @@ The following SQL UPDATE statement changes the age column of the employee whose 
       SQL> UPDATE Employees SET age=20 WHERE id=100;           
 
 
-
 ### • DELETE Data
 The DELETE statement is used to delete data from tables. The syntax for DELETE is −
 
@@ -152,7 +163,6 @@ The WHERE clause can use the comparison operators such as =, !=, <, >, <=,and >=
 The following SQL DELETE statement deletes the record of the employee whose id is 100 −
 
       SQL> DELETE FROM Employees WHERE id=100;
-      
       
       
 # Some Important topics to be covered while studying sql.
