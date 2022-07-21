@@ -163,7 +163,9 @@ The WHERE clause can use the comparison operators such as =, !=, <, >, <=,and >=
 The following SQL DELETE statement deletes the record of the employee whose id is 100 −
 
       SQL> DELETE FROM Employees WHERE id=100;
-      
+
+ ![Screenshot 2022-07-19 122342](https://user-images.githubusercontent.com/101108540/180142579-e1388552-c237-4299-a7f1-ce4eafb3fd19.jpg)
+     
       
 # Some Important topics to be covered while studying sql.
 
