@@ -474,3 +474,4 @@ once Stored procedure created if we want to update or do something then instead 
 
 **2.Output Parameter :**
 
+![2 ](https://user-images.githubusercontent.com/101108540/180441418-d2f935bb-4003-44bc-81ae-d036a4a9c245.jpg)
