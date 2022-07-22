@@ -469,7 +469,7 @@ once Stored procedure created if we want to update or do something then instead 
 
 **1.Input Parameter :**
 
-![1111](https://user-images.githubusercontent.com/101108540/180420796-e5829b10-4861-4812-b6d6-3cb2eed8a14b.jpg)
+![1111](https://user-images.githubusercontent.com/101108540/180422932-63d98582-db03-4d71-b228-36c8ecf15f7f.jpg)
 
 
 **2.Output Parameter :**
