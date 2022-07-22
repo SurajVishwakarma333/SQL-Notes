@@ -442,7 +442,7 @@ The ORDER BY keyword sorts the records in ascending order by default. To sort th
 
 - A stored procedure is also called as database object., because it get stored in database permanently.
 - A stored procedure can be stored in the database and can be reused over and over again.
-- We can pass parameter in stored procedure .,because can do programming in stored procedure.
+- We can pass parameter in stored procedure .,because we can do programming in stored procedure.
 
 **Types of stored procedure :**
 
@@ -463,4 +463,14 @@ ________________________________________________________________________________
 ![demmm](https://user-images.githubusercontent.com/101108540/180218944-91461ca2-7f3c-4f75-a2f1-2c0056027c05.jpg)
 
 once Stored procedure created if we want to update or do something then instead of CREATE we have to write AlTER thats it.
+
+
+**TYPES OF PARAMETER IN STORED PROCEDURE :**
+
+**1.Input Parameter :**
+
+![1111](https://user-images.githubusercontent.com/101108540/180420796-e5829b10-4861-4812-b6d6-3cb2eed8a14b.jpg)
+
+
+**2.Output Parameter :**
 
