@@ -395,7 +395,7 @@ A JOIN clause is used to combine rows from two or more tables, based on a relate
 
 ![ok](https://user-images.githubusercontent.com/101108540/178915855-4d3b62e7-791e-45da-9b78-f3bb9b95ea2f.jpg)
 
-**I. INNER JOIN = Inner joins combine records from two tables whenever there are matching values in a field common to both tables.**
+**I. INNER JOIN = returns rows when there is a match in both tables.**
 
 ![1](https://user-images.githubusercontent.com/101108540/178933871-d98c80cb-fe83-47cd-9ca3-33f522d4b1e9.jpg)
 
@@ -409,7 +409,7 @@ A JOIN clause is used to combine rows from two or more tables, based on a relate
 ![5](https://user-images.githubusercontent.com/101108540/178936200-13bd2994-f32f-4bf3-8890-f6d3ce6b98fe.jpg)
 
             
-**II. LEFT JOIN = The LEFT JOIN command returns all rows from the left table, and the matching rows from the right table. The result is NULL from the right side, if there is no match.**
+**II. LEFT JOIN = returns all rows from the left table,even if there are no matches in the right table.**
 
 ![11](https://user-images.githubusercontent.com/101108540/178991175-c6a54e23-9a0c-417b-ba8f-5908fba5e6e5.jpg)
 
@@ -418,9 +418,13 @@ A JOIN clause is used to combine rows from two or more tables, based on a relate
 ![33](https://user-images.githubusercontent.com/101108540/178994032-515394bb-1f9e-4f02-8eb7-0bbfcce7b6cd.jpg)
 
 
-**III. RIGHT JOIN =
+**III. RIGHT JOIN = returns rows when there is a match in one of the tables.
 
-**IV. OUTER JOIN =
+**IV. Full JOIN = returns rows when there is a match in one of the tables.
+
+**IV. SELF JOIN = is used to join a table to itself as if the table were two tables,temporarily renaming atleast one table in the SQL statement.
+
+**IV. CROSS JOIN = produces a result set which is the number of rows in the first table multipied by the number of rows in the secod tables. This kind of result is called as Cartesian Product.
 
 
 ### 11 : SQL ORDER BY Keyword 
