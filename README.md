@@ -396,35 +396,16 @@ A JOIN clause is used to combine rows from two or more tables, based on a relate
 ![ok](https://user-images.githubusercontent.com/101108540/178915855-4d3b62e7-791e-45da-9b78-f3bb9b95ea2f.jpg)
 
 **I. INNER JOIN = returns rows when there is a match in both tables.**
-
-![1](https://user-images.githubusercontent.com/101108540/178933871-d98c80cb-fe83-47cd-9ca3-33f522d4b1e9.jpg)
-
-![2](https://user-images.githubusercontent.com/101108540/178934167-25e874bb-3e04-4042-a671-5733d399bbf3.jpg)
-
-![3](https://user-images.githubusercontent.com/101108540/178936177-2086c4ac-b19e-4a4e-8de2-dc65c4662b3f.jpg)
-
-![1](https://user-images.githubusercontent.com/101108540/178937483-8efde2fd-53d8-464a-b209-e07c82bf32f1.jpg)
-
-
-![5](https://user-images.githubusercontent.com/101108540/178936200-13bd2994-f32f-4bf3-8890-f6d3ce6b98fe.jpg)
-
             
 **II. LEFT JOIN = returns all rows from the left table,even if there are no matches in the right table.**
 
-![11](https://user-images.githubusercontent.com/101108540/178991175-c6a54e23-9a0c-417b-ba8f-5908fba5e6e5.jpg)
+**III. RIGHT JOIN = returns rows when there is a match in one of the tables.**
 
-![22](https://user-images.githubusercontent.com/101108540/178993877-b03e9620-3a78-4d66-938b-db8ed37ab567.jpg)
+**IV. Full JOIN = returns rows when there is a match in one of the tables.**
 
-![33](https://user-images.githubusercontent.com/101108540/178994032-515394bb-1f9e-4f02-8eb7-0bbfcce7b6cd.jpg)
+**V. SELF JOIN = is used to join a table to itself as if the table were two tables,temporarily renaming atleast one table in the SQL statement.**
 
-
-**III. RIGHT JOIN = returns rows when there is a match in one of the tables.
-
-**IV. Full JOIN = returns rows when there is a match in one of the tables.
-
-**IV. SELF JOIN = is used to join a table to itself as if the table were two tables,temporarily renaming atleast one table in the SQL statement.
-
-**IV. CROSS JOIN = produces a result set which is the number of rows in the first table multipied by the number of rows in the secod tables. This kind of result is called as Cartesian Product.
+**VI. CROSS JOIN = produces a result set which is the number of rows in the first table multipied by the number of rows in the secod tables. This kind of result is called as Cartesian Product.**
 
 
 ### 11 : SQL ORDER BY Keyword 
