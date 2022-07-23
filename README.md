@@ -393,6 +393,9 @@ ________________________________________________________________________________
 
 A JOIN clause is used to combine rows from two or more tables, based on a related column between them.
 
+![111111](https://user-images.githubusercontent.com/101108540/180604277-b14e22de-d809-4ce8-b7ac-73a7a6e77528.jpg)
+
+
 **I. INNER JOIN = returns rows when there is a match in both tables.**
             
 **II. LEFT JOIN = returns all rows from the left table,even if there are no matches in the right table.**
